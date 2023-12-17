@@ -1,0 +1,45 @@
+
+
+  
+  
+
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Rubik+Doodle+Shadow&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'orbitron', sans-serif;
+}
+
+body{
+    background-image: url(pexels-katia-miasoed-19460378.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 11%;
+    color: aliceblue;
+    font-size: 35px;
+    height: 100%;
+    
+}
+
+h1{
+    padding-bottom: 70px;       
+}
+
+
+
+#stopwatch{
+    padding-bottom: 50px;   
+}
+
+#startButton{
+font-size: 25px
+}
+
+/* colocar gradiente, alterar o botão, alterar timer, alterar body */
