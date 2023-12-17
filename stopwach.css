@@ -35,11 +35,18 @@ h1{
 
 
 #stopwatch{
-    padding-bottom: 50px;   
+    padding-bottom: 50px;  
+     
 }
 
+
 #startButton{
-font-size: 25px
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+    
 }
 
 /* colocar gradiente, alterar o botão, alterar timer, alterar body */
