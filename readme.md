@@ -1,43 +1,43 @@
-# Relógio Multiuso
+# Multipurpose Clock
 
-Este é um projeto de relógio que oferece funcionalidades de relógio padrão, cronômetro e timer. É uma aplicação simples, mas versátil, que pode ser útil em diversas situações.
+This is a clock project that offers standard clock, stopwatch and timer functionality. It is a simple but versatile application that can be useful in different situations.
 
-## Funcionalidades
+## Functionalities
 
-1. **Relógio Digital:**
-   - Exibe a hora atual no formato digital.
+1. **Digital Clock:**
+   - Displays the current time in digital format.
 
-2. **Cronômetro:**
-   - Inicie, pause, continue e reinicie o cronômetro conforme necessário.
+2. **Timer:**
+   - Start, pause, resume and restart the timer as needed.
 
 3. **Timer:**
-   - Defina um tempo desejado para o timer e seja notificado quando o tempo expirar.
+   - Set a desired time for the timer and get notified when the time expires.
 
-## Como Usar
+## How to use
 
-1. **Instalação:**
-   - Clone o repositório para o seu ambiente local.
+1. **Installation:**
+   - Clone the repository to your local environment.
 
      ```bash
      git clone https://github.com/DevBlackk/English-M3-module-work.git
      ```
 
-2. **Execução:**
-   - Abra o arquivo `index.html` no seu navegador web.
+2. **Execution:**
+   - Open the `index.html` file in your web browser.
 
-3. **Relógio Digital:**
-   - A interface exibirá a hora atual.
+3. **Digital Clock:**
+   - The interface will display the current time.
 
-4. **Cronômetro:**
-   - Clique no botão "Iniciar" para iniciar o cronômetro.
-   - Use os botões "Pausar", "Continuar" e "Reiniciar" conforme necessário.
+4. **Timer:**
+   - Click the "Start" button to start the timer.
+   - Use the "Pause", "Continue" and "Restart" buttons as needed.
 
 5. **Timer:**
-   - Insira o tempo desejado no campo do timer.
-   - Clique no botão "Iniciar Timer".
-   - Uma notificação será exibida quando o tempo definido expirar.
+   - Enter the desired time in the timer field.
+   - Click the "Start Timer" button.
+   - A notification will be displayed when the set time expires.
 
-## Contribuição
+## Contribution
 
 [Davidson](https://github.com/DevBlackk)
 
@@ -45,6 +45,6 @@ Este é um projeto de relógio que oferece funcionalidades de relógio padrão, 
 
 [Fernanda](https://github.com/Fernandaclarasem)
 
-[Messias](https://github.com/Messias-GitChad)
+[Messiah](https://github.com/Messias-GitChad)
 
 [Nicolas](https://github.com/nascimento-nicolas)
